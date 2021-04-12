@@ -136,3 +136,15 @@ const todoCompletedFilter = todos.filter(function(todo) {
     return todo.text;
 });
 console.log(todoCompletedFilter); */
+
+const x ='26'; 
+// == checks if the values are same 
+if(x ==26){ 
+        console.log("X is 26");
+}
+
+
+// === checks if the datatypes are same 
+if(x === 26){ 
+        console.log("X is 26");
+}
