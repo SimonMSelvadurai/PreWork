@@ -108,10 +108,10 @@ const todosJSON = JSON.stringify(todos);
 console.log(todosJSON); 
 */
 // forEach, map, filter
-/*
+
 todos.forEach(function (todo){
     console.log(todo.text);
-});*/
+});
 
 /*
 for( let todo of todos){
